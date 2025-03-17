@@ -9,8 +9,8 @@
 
 * Flex-box
 
-## Hecho por:
+## Hecho por: Raul García
 
-###Ana García
+###Ana García (personaje del portafolio)
 
 ### Linkedin: https://www.linkedin.com/school/aluracursos/
